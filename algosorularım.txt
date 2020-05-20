@@ -1,0 +1,10 @@
+1- Algoritma nedir hayatımızdaki yeri neresidir?
+2-Editör nedir/Programlama dili nedir aradki farkı yazınız.
+3-Çok satırlı bir kod mu daha verimlidir az satırlı bir kod mu neden?
+4-İstediğiniz bir dilde hello word yazıp neden o dili seçtiğinizi açıklayınız.
+5-Bildiğiniz dilleri yazıp hepsinde ekrana ben bu dili biliyorum yazdırınız.(Veritabanı dilleri için ise kullanıcılar tablosundaki adı ahmet olanları bulan sorgu yazınız)
+6-Üniversitenin meslek hayatınıza dair size birşey kattığını Düşünüyor musunuz?
+7-Faktöriyel hesaplayan fonksiyon yazınız.
+8-44 defa çalışacak bir döngü kurgulayıp 23 e geldiğinde en büyük elazığ yazan ve 44 e gelince 0 yazan programı kodlayın.
+9-Bir e ticaret sitesine vergi tutarı fonksiyonu yazılacak. Bu fonksityon her alışverişe %18 kdv ekleyecek ve ayrıca %3 her alışverişten komisyon kesecek ve net karı yazdıracak.
+10-Bir savaş oyunun öldür fonksiyonunu kodlayarak aradaki mesafenin yüzde 10u kadar düşmanın canını düşüren fonksiyonu yazınız.(int can =100 başlangıç değeri) 
